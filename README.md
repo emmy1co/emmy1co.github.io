@@ -35,3 +35,33 @@ _You **can** combine them_
        * [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")
 * https://www.google.com/
 * <https://www.google.com/>
+[My GitHub][GitHubLink]
+e.g. put on bottom: 
+
+--------------------------------
+[GitHubLink]:https://github.com/darsaveli
+[Example document](/example/example.md)
+[example](./example)
+![alt](URL "title")
+![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "Github logo") 
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
+[![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "GitHub Logo")](https://github.com/)
+|Header1|Header2|Header3|
+| --- | --- | --- |
+| This | is a | table |
+| This | is 2nd | row |
+| This | is 3rd | row |
+| Align left | Centered  | Align right |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+* [ ] Checkbox1
+
+* [ ] Checkbox2
+
+* [x] Checkbox selected
+> This is a block quoted text
+>  Asia
+>> China
+>>> Beijing
+>>>> Haidian
+>>>>> Tsinghua
